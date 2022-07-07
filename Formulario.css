@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    background-color: #8dddf3; /* COLOR DEL FONDO */
+}
+img{
+    width:200px;
+    height:250px;
+    border-radius:0%;
+}
+
